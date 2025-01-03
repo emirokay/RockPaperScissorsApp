@@ -1,6 +1,9 @@
 # RockPaperScissorsApp
 A simple and fun Rock Paper Scissors game built using Swift and SwiftUI. This app features dynamic score tracking, responsive UI feedback, and a vibrant design to make the classic game engaging on iOS devices.
 
+## Screen Recording
+https://github.com/user-attachments/assets/8aac525f-41f5-40dc-9d88-801c20295e68
+
 ## Features
 - **Classic Gameplay**: Play Rock Paper Scissors against a computer opponent.
 - **Dynamic Score Tracking**: Keep track of wins, losses, and draws in real-time.
